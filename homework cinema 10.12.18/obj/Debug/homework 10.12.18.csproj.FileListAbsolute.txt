@@ -1,0 +1,7 @@
+C:\Users\boaz\source\repos\homework 10.12.18\homework 10.12.18\bin\Debug\homework 10.12.18.exe.config
+C:\Users\boaz\source\repos\homework 10.12.18\homework 10.12.18\bin\Debug\homework 10.12.18.exe
+C:\Users\boaz\source\repos\homework 10.12.18\homework 10.12.18\bin\Debug\homework 10.12.18.pdb
+C:\Users\boaz\source\repos\homework 10.12.18\homework 10.12.18\obj\Debug\homework 10.12.18.csprojResolveAssemblyReference.cache
+C:\Users\boaz\source\repos\homework 10.12.18\homework 10.12.18\obj\Debug\homework 10.12.18.csproj.CoreCompileInputs.cache
+C:\Users\boaz\source\repos\homework 10.12.18\homework 10.12.18\obj\Debug\homework 10.12.18.exe
+C:\Users\boaz\source\repos\homework 10.12.18\homework 10.12.18\obj\Debug\homework 10.12.18.pdb
